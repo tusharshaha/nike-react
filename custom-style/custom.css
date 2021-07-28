@@ -1,0 +1,45 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* global  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+/* header style  */
+header{
+    background-color: rgba(255, 249, 244, 1);
+    ;
+    height: 715px;
+    width: 100%;
+}
+span{
+    color: #FA804C;
+}
+.top-text h1{
+    font-size: 80px;
+}
+.order-btn .fas{
+    padding-right: 8px;
+}
+.order-btn{
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 18px 33px;
+    color: #fff;
+    background:linear-gradient(rgb(91, 91, 231), rgb(71, 71, 223));
+    border: none;
+    border-radius: 10px;
+
+}
+/* main section  */
+/* shoes section  */
+.card-bg{
+    background-color: rgba(241, 241, 241, 1);
+}
+.card-radius{
+    border-radius: 20px;
+}
